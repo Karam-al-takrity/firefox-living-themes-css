@@ -6,6 +6,25 @@ There's no JavaScript, nothing goes in Firefox's program folder, and nothing loa
 
 Tested on **Firefox 159 on Windows 11**. Other versions and systems may need small fixes, and issues and pull requests are welcome.
 
+## Screenshots
+
+Each one shows the theme's tabs, toolbar, address bar and bookmarks bar, over its animated new tab page.
+
+**Nocturne**
+![Nocturne](screenshots/nocturne.webp)
+
+**Ame**
+![Ame](screenshots/ame.webp)
+
+**Relics**
+![Relics](screenshots/relics.webp)
+
+**Manga: Ghoul**
+![Manga: Ghoul](screenshots/manga.webp)
+
+**Meridian**
+![Meridian](screenshots/meridian.webp)
+
 ## The themes
 
 - **Nocturne** (the default): pastel glass tabs, a centred address bar, a magnifying bookmarks dock, a rocket loading bar and 20 colour palettes.
